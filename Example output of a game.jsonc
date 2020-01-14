@@ -1,0 +1,1965 @@
+/*
+oooooooooooo                                                    oooo                     
+`888'     `8                                                    `888                     
+ 888         oooo    ooo  .oooo.   ooo. .oo.  .oo.   oo.ooooo.   888   .ooooo.   .oooo.o 
+ 888oooo8     `88b..8P'  `P  )88b  `888P"Y88bP"Y88b   888' `88b  888  d88' `88b d88(  "8 
+ 888    "       Y888'     .oP"888   888   888   888   888   888  888  888ooo888 `"Y88b.  
+ 888       o  .o8"'88b   d8(  888   888   888   888   888   888  888  888    .o o.  )88b 
+o888ooooood8 o88'   888o `Y888""8o o888o o888o o888o  888bod8P' o888o `Y8bod8P' 8""888P' 
+                                                      888                                
+                                                     o888o                               
+*/
+
+// Main Menu / Not Doing Anything
+{
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577789104
+  },
+  "player": {},
+  "draft": {},
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+// Waiting Players to load (Before heroes pops up)
+{
+  "buildings": {
+    "dire": {}
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577789269
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 11,
+    "clock_time": -26,
+    "daytime": false,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_WAIT_FOR_PLAYERS_TO_LOAD",
+    "paused": false,
+    "win_team": "none",
+    "customgamename": "",
+    "ward_purchase_cooldown": 0
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "last_hits": 0,
+    "denies": 0,
+    "kill_streak": 0,
+    "commands_issued": 0,
+    "kill_list": {},
+    "team_name": "dire",
+    "gold": 600,
+    "gold_reliable": 0,
+    "gold_unreliable": 600,
+    "gold_from_hero_kills": 0,
+    "gold_from_creep_kills": 0,
+    "gold_from_income": 0,
+    "gold_from_shared": 0,
+    "gpm": 0,
+    "xpm": 0
+  },
+  "hero": {
+    "id": -1
+  },
+  "abilities": {},
+  "items": {},
+  "draft": {},
+  "wearables": {},
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+// Heroes Selection - Waiting for selection
+{
+  "buildings": {
+    "dire": {}
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577789289
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 32,
+    "clock_time": -10,
+    "daytime": false,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_HERO_SELECTION",
+    "paused": false,
+    "win_team": "none",
+    "customgamename": "",
+    "ward_purchase_cooldown": 0
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "last_hits": 0,
+    "denies": 0,
+    "kill_streak": 0,
+    "commands_issued": 2,
+    "kill_list": {},
+    "team_name": "dire",
+    "gold": 600,
+    "gold_reliable": 0,
+    "gold_unreliable": 600,
+    "gold_from_hero_kills": 0,
+    "gold_from_creep_kills": 0,
+    "gold_from_income": 0,
+    "gold_from_shared": 0,
+    "gpm": 0,
+    "xpm": 0
+  },
+  "hero": {
+    "id": -1
+  },
+  "abilities": {},
+  "items": {},
+  "draft": {},
+  "wearables": {},
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+// Heroes Selection - Has selected
+{
+  "buildings": {
+    "dire": {}
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577789389
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 131,
+    "clock_time": -24,
+    "daytime": false,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_HERO_SELECTION",
+    "paused": false,
+    "win_team": "none",
+    "customgamename": "",
+    "ward_purchase_cooldown": 32
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "last_hits": 0,
+    "denies": 0,
+    "kill_streak": 0,
+    "commands_issued": 2,
+    "kill_list": {},
+    "team_name": "dire",
+    "gold": 510,
+    "gold_reliable": 0,
+    "gold_unreliable": 510,
+    "gold_from_hero_kills": 0,
+    "gold_from_creep_kills": 0,
+    "gold_from_income": 0,
+    "gold_from_shared": 0,
+    "gpm": 0,
+    "xpm": 0
+  },
+  "hero": {
+    "id": 57,
+    "name": "npc_dota_hero_omniknight"
+  },
+  "abilities": {},
+  "items": {},
+  "draft": {},
+  "wearables": {
+    "wearable0": 44,
+    "wearable1": 46,
+    "wearable2": 42,
+    "wearable3": 13,
+    "wearable4": 43,
+    "wearable5": 45,
+    "wearable6": 8632,
+    "wearable7": 562
+  },
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+
+// Strategy Time
+{
+  "buildings": {
+    "dire": {}
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577789502
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 244,
+    "clock_time": -27,
+    "daytime": false,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_STRATEGY_TIME",
+    "paused": false,
+    "win_team": "none",
+    "customgamename": "",
+    "ward_purchase_cooldown": 0
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "last_hits": 0,
+    "denies": 0,
+    "kill_streak": 0,
+    "commands_issued": 6,
+    "kill_list": {},
+    "team_name": "dire",
+    "gold": 200,
+    "gold_reliable": 0,
+    "gold_unreliable": 200,
+    "gold_from_hero_kills": 0,
+    "gold_from_creep_kills": 0,
+    "gold_from_income": 0,
+    "gold_from_shared": 0,
+    "gpm": 0,
+    "xpm": 0
+  },
+  "hero": {
+    "id": 57,
+    "name": "npc_dota_hero_omniknight"
+  },
+  "abilities": {},
+  "items": {},
+  "draft": {},
+  "wearables": {
+    "wearable0": 44,
+    "wearable1": 46,
+    "wearable2": 42,
+    "wearable3": 13,
+    "wearable4": 43,
+    "wearable5": 45,
+    "wearable6": 8632,
+    "wearable7": 562
+  },
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+
+
+
+// Team Showcase (Before playing && Loading Map, Heroes, etc.)
+{
+  "buildings": {
+    "dire": {}
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577789538
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 272,
+    "clock_time": -16,
+    "daytime": false,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_TEAM_SHOWCASE",
+    "paused": false,
+    "win_team": "none",
+    "customgamename": "",
+    "ward_purchase_cooldown": 0
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "last_hits": 0,
+    "denies": 0,
+    "kill_streak": 0,
+    "commands_issued": 6,
+    "kill_list": {},
+    "team_name": "dire",
+    "gold": 200,
+    "gold_reliable": 0,
+    "gold_unreliable": 200,
+    "gold_from_hero_kills": 0,
+    "gold_from_creep_kills": 0,
+    "gold_from_income": 0,
+    "gold_from_shared": 0,
+    "gpm": 0,
+    "xpm": 0
+  },
+  "hero": {
+    "id": 57,
+    "name": "npc_dota_hero_omniknight"
+  },
+  "abilities": {},
+  "items": {},
+  "draft": {},
+  "wearables": {
+    "wearable0": 44,
+    "wearable1": 46,
+    "wearable2": 42,
+    "wearable3": 13,
+    "wearable4": 43,
+    "wearable5": 45,
+    "wearable6": 8632,
+    "wearable7": 562
+  },
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+
+/*
+ooooo                     ooo        ooooo               .             oooo        
+`888'                     `88.       .888'             .o8             `888        
+ 888  ooo. .oo.            888b     d'888   .oooo.   .o888oo  .ooooo.   888 .oo.   
+ 888  `888P"Y88b           8 Y88. .P  888  `P  )88b    888   d88' `"Y8  888P"Y88b  
+ 888   888   888  8888888  8  `888'   888   .oP"888    888   888        888   888  
+ 888   888   888           8    Y     888  d8(  888    888 . 888   .o8  888   888  
+o888o o888o o888o         o8o        o888o `Y888""8o   "888" `Y8bod8P' o888o o888o 
+*/
+
+
+// Pre Game
+{
+  "buildings": {
+    "dire": {
+      "dota_badguys_tower1_top": {
+        "health": 1800,
+        "max_health": 1800
+      },
+      "dota_badguys_tower2_top": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_top": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower1_mid": {
+        "health": 1800,
+        "max_health": 1800
+      },
+      "dota_badguys_tower2_mid": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_mid": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower1_bot": {
+        "health": 1800,
+        "max_health": 1800
+      },
+      "dota_badguys_tower2_bot": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_bot": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower4_top": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "dota_badguys_tower4_bot": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "bad_rax_melee_top": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_top": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_mid": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_mid": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_bot": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_bot": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "dota_badguys_fort": {
+        "health": 4500,
+        "max_health": 4500
+      }
+    }
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577789548
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 274,
+    "clock_time": -87,
+    "daytime": true,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_PRE_GAME",
+    "paused": false,
+    "win_team": "none",
+    "customgamename": "",
+    "ward_purchase_cooldown": 133
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "last_hits": 0,
+    "denies": 0,
+    "kill_streak": 0,
+    "commands_issued": 6, // TODO: Find out about this
+    "kill_list": {},
+    "team_name": "dire",
+    "gold": 200,
+    "gold_reliable": 0,
+    "gold_unreliable": 200,
+    "gold_from_hero_kills": 0,
+    "gold_from_creep_kills": 0,
+    "gold_from_income": 0,
+    "gold_from_shared": 0,
+    "gpm": 0,
+    "xpm": 0
+  },
+  "hero": {
+    "xpos": 6950,
+    "ypos": 6499,
+    "id": 57,
+    "name": "npc_dota_hero_omniknight",
+    "level": 1,
+    "alive": true,
+    "respawn_seconds": 0,
+    "buyback_cost": 143,
+    "buyback_cooldown": 0,
+    "health": 640,
+    "max_health": 640,
+    "health_percent": 100,
+    "mana": 255,
+    "max_mana": 255,
+    "mana_percent": 100,
+    "silenced": false,
+    "stunned": false,
+    "disarmed": false,
+    "magicimmune": false,
+    "hexed": false,
+    "muted": false,
+    "break": false,
+    "smoked": false,
+    "has_debuff": false,
+    "talent_1": false,
+    "talent_2": false,
+    "talent_3": false,
+    "talent_4": false,
+    "talent_5": false,
+    "talent_6": false,
+    "talent_7": false,
+    "talent_8": false
+  },
+  "abilities": {
+    "ability0": {
+      "name": "omniknight_purification",
+      "level": 0,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability1": {
+      "name": "omniknight_repel",
+      "level": 0,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability2": {
+      "name": "omniknight_degen_aura",
+      "level": 0,
+      "can_cast": false,
+      "passive": true,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability3": {
+      "name": "omniknight_guardian_angel",
+      "level": 0,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": true
+    },
+    "ability4": {
+      "name": "seasonal_throw_snowball",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability5": {
+      "name": "seasonal_summon_snowman",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability6": {
+      "name": "seasonal_festive_firework",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability7": {
+      "name": "seasonal_summon_penguin",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability8": {
+      "name": "high_five",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    }
+  },
+  "items": {
+    "slot0": {
+      "name": "item_tango",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 6
+    },
+    "slot1": {
+      "name": "item_enchanted_mango",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 1
+    },
+    "slot2": {
+      "name": "item_quelling_blade",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot3": {
+      "name": "empty"
+    },
+    "slot4": {
+      "name": "empty"
+    },
+    "slot5": {
+      "name": "empty"
+    },
+    "slot6": {
+      "name": "empty"
+    },
+    "slot7": {
+      "name": "empty"
+    },
+    "slot8": {
+      "name": "empty"
+    },
+    "slot9": {
+      "name": "empty"
+    },
+    "stash0": {
+      "name": "empty"
+    },
+    "stash1": {
+      "name": "empty"
+    },
+    "stash2": {
+      "name": "empty"
+    },
+    "stash3": {
+      "name": "empty"
+    },
+    "stash4": {
+      "name": "empty"
+    },
+    "stash5": {
+      "name": "empty"
+    }
+  },
+  "draft": {},
+  "wearables": {
+    "wearable0": 44,
+    "wearable1": 46,
+    "wearable2": 42,
+    "wearable3": 13,
+    "wearable4": 43,
+    "wearable5": 45,
+    "wearable6": 8632,
+    "wearable7": 562,
+    "wearable8": 17528
+  },
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+// 5 Seconds before creep spawn
+{
+  "buildings": {
+    "dire": {
+      "dota_badguys_tower1_top": {
+        "health": 1800,
+        "max_health": 1800
+      },
+      "dota_badguys_tower2_top": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_top": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower1_mid": {
+        "health": 1800,
+        "max_health": 1800
+      },
+      "dota_badguys_tower2_mid": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_mid": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower1_bot": {
+        "health": 1800,
+        "max_health": 1800
+      },
+      "dota_badguys_tower2_bot": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_bot": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower4_top": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "dota_badguys_tower4_bot": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "bad_rax_melee_top": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_top": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_mid": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_mid": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_bot": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_bot": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "dota_badguys_fort": {
+        "health": 4500,
+        "max_health": 4500
+      }
+    }
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577789630
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 357,
+    "clock_time": -5,
+    "daytime": true,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_PRE_GAME",
+    "paused": false,
+    "win_team": "none",
+    "customgamename": "",
+    "ward_purchase_cooldown": 51
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "last_hits": 0,
+    "denies": 0,
+    "kill_streak": 0,
+    "commands_issued": 248,
+    "kill_list": {},
+    "team_name": "dire",
+    "gold": 200,
+    "gold_reliable": 0,
+    "gold_unreliable": 200,
+    "gold_from_hero_kills": 0,
+    "gold_from_creep_kills": 0,
+    "gold_from_income": 0,
+    "gold_from_shared": 0,
+    "gpm": 0,
+    "xpm": 0
+  },
+  "hero": {
+    "xpos": -7099,
+    "ypos": 4382,
+    "id": 57,
+    "name": "npc_dota_hero_omniknight",
+    "level": 1,
+    "alive": true,
+    "respawn_seconds": 0,
+    "buyback_cost": 143,
+    "buyback_cooldown": 0,
+    "health": 640,
+    "max_health": 640,
+    "health_percent": 100,
+    "mana": 255,
+    "max_mana": 255,
+    "mana_percent": 100,
+    "silenced": false,
+    "stunned": false,
+    "disarmed": false,
+    "magicimmune": false,
+    "hexed": false,
+    "muted": false,
+    "break": false,
+    "smoked": false,
+    "has_debuff": false,
+    "talent_1": false,
+    "talent_2": false,
+    "talent_3": false,
+    "talent_4": false,
+    "talent_5": false,
+    "talent_6": false,
+    "talent_7": false,
+    "talent_8": false
+  },
+  "abilities": {
+    "ability0": {
+      "name": "omniknight_purification",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability1": {
+      "name": "omniknight_repel",
+      "level": 0,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability2": {
+      "name": "omniknight_degen_aura",
+      "level": 0,
+      "can_cast": false,
+      "passive": true,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability3": {
+      "name": "omniknight_guardian_angel",
+      "level": 0,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": true
+    },
+    "ability4": {
+      "name": "seasonal_throw_snowball",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability5": {
+      "name": "seasonal_summon_snowman",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability6": {
+      "name": "seasonal_festive_firework",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability7": {
+      "name": "seasonal_summon_penguin",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability8": {
+      "name": "high_five",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    }
+  },
+  "items": {
+    "slot0": {
+      "name": "item_tango",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 5
+    },
+    "slot1": {
+      "name": "item_enchanted_mango",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 1
+    },
+    "slot2": {
+      "name": "item_quelling_blade",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot3": {
+      "name": "empty"
+    },
+    "slot4": {
+      "name": "empty"
+    },
+    "slot5": {
+      "name": "empty"
+    },
+    "slot6": {
+      "name": "empty"
+    },
+    "slot7": {
+      "name": "empty"
+    },
+    "slot8": {
+      "name": "empty"
+    },
+    "slot9": {
+      "name": "empty"
+    },
+    "stash0": {
+      "name": "empty"
+    },
+    "stash1": {
+      "name": "empty"
+    },
+    "stash2": {
+      "name": "empty"
+    },
+    "stash3": {
+      "name": "empty"
+    },
+    "stash4": {
+      "name": "empty"
+    },
+    "stash5": {
+      "name": "empty"
+    }
+  },
+  "draft": {},
+  "wearables": {
+    "wearable0": 44,
+    "wearable1": 46,
+    "wearable2": 42,
+    "wearable3": 13,
+    "wearable4": 43,
+    "wearable5": 45,
+    "wearable6": 8632,
+    "wearable7": 562,
+    "wearable8": 17528
+  },
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+// IN GAME (4 Seconds)
+{
+  "buildings": {
+    "dire": {
+      "dota_badguys_tower1_top": {
+        "health": 1800,
+        "max_health": 1800
+      },
+      "dota_badguys_tower2_top": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_top": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower1_mid": {
+        "health": 1800,
+        "max_health": 1800
+      },
+      "dota_badguys_tower2_mid": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_mid": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower1_bot": {
+        "health": 1800,
+        "max_health": 1800
+      },
+      "dota_badguys_tower2_bot": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_bot": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower4_top": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "dota_badguys_tower4_bot": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "bad_rax_melee_top": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_top": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_mid": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_mid": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_bot": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_bot": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "dota_badguys_fort": {
+        "health": 4500,
+        "max_health": 4500
+      }
+    }
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577789640
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 367,
+    "clock_time": 4,
+    "daytime": true,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "paused": false,
+    "win_team": "none",
+    "customgamename": "",
+    "ward_purchase_cooldown": 41
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 0,
+    "deaths": 0,
+    "assists": 0,
+    "last_hits": 0,
+    "denies": 0,
+    "kill_streak": 0,
+    "commands_issued": 295,
+    "kill_list": {},
+    "team_name": "dire",
+    "gold": 327,
+    "gold_reliable": 0,
+    "gold_unreliable": 327,
+    "gold_from_hero_kills": 0,
+    "gold_from_creep_kills": 0,
+    "gold_from_income": 7,
+    "gold_from_shared": 0,
+    "gpm": 1566,
+    "xpm": 0
+  },
+  "hero": {
+    "xpos": -6098,
+    "ypos": 5056,
+    "id": 57,
+    "name": "npc_dota_hero_omniknight",
+    "level": 1,
+    "alive": true,
+    "respawn_seconds": 0,
+    "buyback_cost": 152,
+    "buyback_cooldown": 0,
+    "health": 640,
+    "max_health": 640,
+    "health_percent": 100,
+    "mana": 255,
+    "max_mana": 255,
+    "mana_percent": 100,
+    "silenced": false,
+    "stunned": false,
+    "disarmed": false,
+    "magicimmune": false,
+    "hexed": false,
+    "muted": false,
+    "break": false,
+    "smoked": false,
+    "has_debuff": false,
+    "talent_1": false,
+    "talent_2": false,
+    "talent_3": false,
+    "talent_4": false,
+    "talent_5": false,
+    "talent_6": false,
+    "talent_7": false,
+    "talent_8": false
+  },
+  "abilities": {
+    "ability0": {
+      "name": "omniknight_purification",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability1": {
+      "name": "omniknight_repel",
+      "level": 0,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability2": {
+      "name": "omniknight_degen_aura",
+      "level": 0,
+      "can_cast": false,
+      "passive": true,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability3": {
+      "name": "omniknight_guardian_angel",
+      "level": 0,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": true
+    },
+    "ability4": {
+      "name": "seasonal_throw_snowball",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability5": {
+      "name": "seasonal_summon_snowman",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability6": {
+      "name": "seasonal_festive_firework",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability7": {
+      "name": "seasonal_summon_penguin",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability8": {
+      "name": "high_five",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    }
+  },
+  "items": {
+    "slot0": {
+      "name": "item_tango",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 5
+    },
+    "slot1": {
+      "name": "item_enchanted_mango",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 1
+    },
+    "slot2": {
+      "name": "item_quelling_blade",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot3": {
+      "name": "empty"
+    },
+    "slot4": {
+      "name": "empty"
+    },
+    "slot5": {
+      "name": "empty"
+    },
+    "slot6": {
+      "name": "empty"
+    },
+    "slot7": {
+      "name": "empty"
+    },
+    "slot8": {
+      "name": "empty"
+    },
+    "slot9": {
+      "name": "empty"
+    },
+    "stash0": {
+      "name": "empty"
+    },
+    "stash1": {
+      "name": "empty"
+    },
+    "stash2": {
+      "name": "empty"
+    },
+    "stash3": {
+      "name": "empty"
+    },
+    "stash4": {
+      "name": "empty"
+    },
+    "stash5": {
+      "name": "empty"
+    }
+  },
+  "draft": {},
+  "wearables": {
+    "wearable0": 44,
+    "wearable1": 46,
+    "wearable2": 42,
+    "wearable3": 13,
+    "wearable4": 43,
+    "wearable5": 45,
+    "wearable6": 8632,
+    "wearable7": 562,
+    "wearable8": 17528
+  },
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+// In game (Late Game)
+{
+  "buildings": {
+    "dire": {
+      "dota_badguys_tower2_top": {
+        "health": 1945,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_top": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower2_mid": {
+        "health": 1147,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_mid": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_bot": {
+        "health": 1538,
+        "max_health": 2000
+      },
+      "dota_badguys_tower4_top": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "dota_badguys_tower4_bot": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "bad_rax_melee_top": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_top": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_mid": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_mid": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_bot": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_bot": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "dota_badguys_fort": {
+        "health": 4500,
+        "max_health": 4500
+      }
+    }
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577792093
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 2818,
+    "clock_time": 2456,
+    "daytime": true,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS",
+    "paused": false,
+    "win_team": "none",
+    "customgamename": "",
+    "ward_purchase_cooldown": 0
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 2,
+    "deaths": 9,
+    "assists": 21,
+    "last_hits": 47,
+    "denies": 6,
+    "kill_streak": 0,
+    "commands_issued": 8684,
+    "kill_list": {
+      "victimid_4": 2
+    },
+    "team_name": "dire",
+    "gold": 2279,
+    "gold_reliable": 1658,
+    "gold_unreliable": 621,
+    "gold_from_hero_kills": 3004,
+    "gold_from_creep_kills": 2081,
+    "gold_from_income": 5025,
+    "gold_from_shared": 1011,
+    "gpm": 431,
+    "xpm": 0
+  },
+  "hero": {
+    "xpos": -2369,
+    "ypos": -1914,
+    "id": 57,
+    "name": "npc_dota_hero_omniknight",
+    "level": 25,
+    "alive": true,
+    "respawn_seconds": 0,
+    "buyback_cost": 1283,
+    "buyback_cooldown": 0,
+    "health": 2580,
+    "max_health": 2580,
+    "health_percent": 100,
+    "mana": 1273,
+    "max_mana": 1273,
+    "mana_percent": 100,
+    "silenced": false,
+    "stunned": false,
+    "disarmed": false,
+    "magicimmune": false,
+    "hexed": false,
+    "muted": false,
+    "break": false,
+    "smoked": false,
+    "has_debuff": false,
+    "talent_1": true,
+    "talent_2": false,
+    "talent_3": false,
+    "talent_4": true,
+    "talent_5": true,
+    "talent_6": false,
+    "talent_7": true,
+    "talent_8": false
+  },
+  "abilities": {
+    "ability0": {
+      "name": "omniknight_purification",
+      "level": 4,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability1": {
+      "name": "omniknight_repel",
+      "level": 4,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability2": {
+      "name": "omniknight_degen_aura",
+      "level": 4,
+      "can_cast": false,
+      "passive": true,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability3": {
+      "name": "omniknight_guardian_angel",
+      "level": 3,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 104,
+      "ultimate": true
+    },
+    "ability4": {
+      "name": "seasonal_throw_snowball",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability5": {
+      "name": "seasonal_summon_snowman",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability6": {
+      "name": "seasonal_festive_firework",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability7": {
+      "name": "seasonal_summon_penguin",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability8": {
+      "name": "high_five",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    }
+  },
+  "items": {
+    "slot0": {
+      "name": "item_guardian_greaves",
+      "purchaser": 6,
+      "can_cast": false,
+      "cooldown": 26,
+      "passive": false
+    },
+    "slot1": {
+      "name": "item_glimmer_cape",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot2": {
+      "name": "item_ward_dispenser",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 1
+    },
+    "slot3": {
+      "name": "item_magic_wand",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 1
+    },
+    "slot4": {
+      "name": "item_buckler",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot5": {
+      "name": "item_force_staff",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot6": {
+      "name": "item_aether_lens",
+      "purchaser": 6,
+      "passive": true
+    },
+    "slot7": {
+      "name": "item_quelling_blade",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot8": {
+      "name": "empty"
+    },
+    "slot9": {
+      "name": "empty"
+    },
+    "stash0": {
+      "name": "empty"
+    },
+    "stash1": {
+      "name": "empty"
+    },
+    "stash2": {
+      "name": "empty"
+    },
+    "stash3": {
+      "name": "empty"
+    },
+    "stash4": {
+      "name": "empty"
+    },
+    "stash5": {
+      "name": "empty"
+    }
+  },
+  "draft": {},
+  "wearables": {
+    "wearable0": 44,
+    "wearable1": 46,
+    "wearable2": 42,
+    "wearable3": 13,
+    "wearable4": 43,
+    "wearable5": 45,
+    "wearable6": 8632,
+    "wearable7": 562,
+    "wearable8": 17528
+  },
+  "auth": {
+    "token": "angeloanan"
+  }
+}
+
+// Post game
+{
+  "buildings": {
+    "dire": {
+      "dota_badguys_tower2_top": {
+        "health": 1945,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_top": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower2_mid": {
+        "health": 1147,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_mid": {
+        "health": 2000,
+        "max_health": 2000
+      },
+      "dota_badguys_tower3_bot": {
+        "health": 1538,
+        "max_health": 2000
+      },
+      "dota_badguys_tower4_top": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "dota_badguys_tower4_bot": {
+        "health": 2100,
+        "max_health": 2100
+      },
+      "bad_rax_melee_top": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_top": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_mid": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_mid": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "bad_rax_melee_bot": {
+        "health": 2200,
+        "max_health": 2200
+      },
+      "bad_rax_range_bot": {
+        "health": 1300,
+        "max_health": 1300
+      },
+      "dota_badguys_fort": {
+        "health": 4500,
+        "max_health": 4500
+      }
+    }
+  },
+  "provider": {
+    "name": "Dota 2",
+    "appid": 570,
+    "version": 47,
+    "timestamp": 1577792118
+  },
+  "map": {
+    "name": "start",
+    "matchid": "5177343761",
+    "game_time": 2844,
+    "clock_time": 2473,
+    "daytime": true,
+    "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_POST_GAME",
+    "paused": false,
+    "win_team": "dire",
+    "customgamename": "",
+    "ward_purchase_cooldown": 0
+  },
+  "player": {
+    "steamid": "76561198064326712",
+    "name": "Angelo ^-^",
+    "activity": "playing",
+    "kills": 2,
+    "deaths": 9,
+    "assists": 22,
+    "last_hits": 47,
+    "denies": 6,
+    "kill_streak": 0,
+    "commands_issued": 8751,
+    "kill_list": {
+      "victimid_4": 2
+    },
+    "team_name": "dire",
+    "gold": 2435,
+    "gold_reliable": 1746,
+    "gold_unreliable": 689,
+    "gold_from_hero_kills": 3092,
+    "gold_from_creep_kills": 2081,
+    "gold_from_income": 5087,
+    "gold_from_shared": 1011,
+    "gpm": 431,
+    "xpm": 0
+  },
+  "hero": {
+    "xpos": -6002,
+    "ypos": -4577,
+    "id": 57,
+    "name": "npc_dota_hero_omniknight",
+    "level": 26,
+    "alive": true,
+    "respawn_seconds": 0,
+    "buyback_cost": 1295,
+    "buyback_cooldown": 0,
+    "health": 2660,
+    "max_health": 2660,
+    "health_percent": 100,
+    "mana": 1103,
+    "max_mana": 1297,
+    "mana_percent": 85,
+    "silenced": false,
+    "stunned": false,
+    "disarmed": false,
+    "magicimmune": false,
+    "hexed": false,
+    "muted": false,
+    "break": false,
+    "smoked": false,
+    "has_debuff": false,
+    "talent_1": true,
+    "talent_2": false,
+    "talent_3": false,
+    "talent_4": true,
+    "talent_5": true,
+    "talent_6": false,
+    "talent_7": true,
+    "talent_8": false
+  },
+  "abilities": {
+    "ability0": {
+      "name": "omniknight_purification",
+      "level": 4,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability1": {
+      "name": "omniknight_repel",
+      "level": 4,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 6,
+      "ultimate": false
+    },
+    "ability2": {
+      "name": "omniknight_degen_aura",
+      "level": 4,
+      "can_cast": false,
+      "passive": true,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability3": {
+      "name": "omniknight_guardian_angel",
+      "level": 3,
+      "can_cast": false,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 79,
+      "ultimate": true
+    },
+    "ability4": {
+      "name": "seasonal_throw_snowball",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability5": {
+      "name": "seasonal_summon_snowman",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability6": {
+      "name": "seasonal_festive_firework",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability7": {
+      "name": "seasonal_summon_penguin",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    },
+    "ability8": {
+      "name": "high_five",
+      "level": 1,
+      "can_cast": true,
+      "passive": false,
+      "ability_active": true,
+      "cooldown": 0,
+      "ultimate": false
+    }
+  },
+  "items": {
+    "slot0": {
+      "name": "item_guardian_greaves",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot1": {
+      "name": "item_glimmer_cape",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot2": {
+      "name": "item_ward_dispenser",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 1
+    },
+    "slot3": {
+      "name": "item_magic_wand",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false,
+      "charges": 2
+    },
+    "slot4": {
+      "name": "item_buckler",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot5": {
+      "name": "item_force_staff",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot6": {
+      "name": "item_aether_lens",
+      "purchaser": 6,
+      "passive": true
+    },
+    "slot7": {
+      "name": "item_quelling_blade",
+      "purchaser": 6,
+      "can_cast": true,
+      "cooldown": 0,
+      "passive": false
+    },
+    "slot8": {
+      "name": "empty"
+    },
+    "slot9": {
+      "name": "empty"
+    },
+    "stash0": {
+      "name": "empty"
+    },
+    "stash1": {
+      "name": "empty"
+    },
+    "stash2": {
+      "name": "empty"
+    },
+    "stash3": {
+      "name": "empty"
+    },
+    "stash4": {
+      "name": "empty"
+    },
+    "stash5": {
+      "name": "empty"
+    }
+  },
+  "draft": {},
+  "wearables": {
+    "wearable0": 44,
+    "wearable1": 46,
+    "wearable2": 42,
+    "wearable3": 13,
+    "wearable4": 43,
+    "wearable5": 45,
+    "wearable6": 8632,
+    "wearable7": 562,
+    "wearable8": 17528
+  },
+  "auth": {
+    "token": "angeloanan"
+  }
+}

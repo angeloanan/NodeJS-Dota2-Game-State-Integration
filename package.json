@@ -1,0 +1,9 @@
+{
+  "name": "dota2-gsi",
+  "version": "0.0.1",
+  "description": "An Object Oriented Game State Integration for Dota 2 with no dependencies",
+  "main": "src/index.js",
+  "repository": "https://github.com/angeloanan/NodeJS-Dota2-Game-State-Integration.git",
+  "author": "Christopher Angelo<anandavid2002@gmail.com>",
+  "license": "GPLv3.0-or-later"
+}
